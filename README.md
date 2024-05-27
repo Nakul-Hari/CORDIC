@@ -32,4 +32,8 @@ Pipelined processing enhances performance by breaking down the computation into 
 
 In iterative processing, each stage of computation depends on the result of the previous stage. While iterative processing may have higher latency compared to pipelined processing, it often requires fewer hardware resources, making it advantageous for resource-constrained environments.
 
+## Acknowledgements
+
+This implementation is part of the lab work for the EE5516 VLSI Architectures for Signal Processing and Machine Learning course.
+
 
